@@ -13,7 +13,7 @@
     .blogs-post-container .post-container {
         max-width: 45%;
     }
-    .proyect-main-container {
+    .proyects-main-container {
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 2fr;
     }
